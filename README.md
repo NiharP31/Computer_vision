@@ -1,5 +1,5 @@
 # Computer_vision
-Welcome to the Journey of Computer Vision from basic.
+Welcome to the Journey of Computer Vision from the basics.
 
 Here you will able to find CV notebooks from basic to advance level(Work is in progress so stay tuned)
 
